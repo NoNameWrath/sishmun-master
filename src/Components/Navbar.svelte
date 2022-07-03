@@ -6,8 +6,8 @@
 	</div>
 	<div class="mb-5 ">
 		<div class="flex space-x-10 items-center justify-center mx-5 mt-10 ">
-			<a href="/Commitee" class="text-xl text-white hover:text-primary align-top">Commitee</a>
-			<a href="/About" class="text-xl text-white hover:text-primary align-top">About us</a>
+			<a href="/Commitee1" class="text-xl text-white hover:text-primary align-top">Commitee</a>
+			<a href="/About1" class="text-xl text-white hover:text-primary align-top">About us</a>
 			<a href="/Secreteriat" class="text-xl text-white hover:text-primary align-top">Secreteriat</a>
 			
 		</div>
