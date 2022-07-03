@@ -42,8 +42,8 @@
 		</div>
 	</div>
 </div>
-<div class=" mt-10 text-warning flex items-center justify-center gap-5">
-	<button class="btn">Join us</button>
+<div class="my-10 text-warning flex items-center justify-center gap-5">
+	<a href="https://forms.gle/JwRnjajyQAXy3kvU7"><button class="btn">Join us</button></a>
 </div>
 
 <Formal />
