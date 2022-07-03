@@ -4,23 +4,12 @@
     import Navbar from "../components/Navbar.svelte";
     import Footer from "../components/Footer.svelte";
 </script>
-    <body>
+
+<body>
         <div class="place-content-center items-center text-center">
             <Navbar />
             <Landing />
-    
-    
-                <Formal />
-    
-    
-    
-               
-                <Footer />
-    
+            <Formal />
+            <Footer />
         </div>
-    
-    
-    
-    
-    
-    </body>
+</body>
